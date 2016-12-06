@@ -1,1 +1,2 @@
-Cinema
+# Cinema
+Movies manager in C#
